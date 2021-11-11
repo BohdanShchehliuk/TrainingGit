@@ -54,7 +54,7 @@ public class Massive {
 
     public static void main(String[] args) {
 
-        System.out.println("Введіть розмір одновимірного масиву n:");
+        System.out.println("Введіть розмір одновимірного масиву   n:");
         Scanner input = new Scanner(System.in);
         int numberOneDimensionMassive = input.nextInt();
         input = new Scanner(System.in);
