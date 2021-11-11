@@ -1,8 +1,9 @@
 /shelf/
 /.idea/workspace.xml
-.idea
+idea/
 out/
 .*xml
 .*html
 .*iml
 .*txt
+TrainingGit.iml
